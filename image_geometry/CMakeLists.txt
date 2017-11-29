@@ -3,7 +3,7 @@ project(image_geometry)
 
 find_package(catkin REQUIRED sensor_msgs)
 find_package(OpenCV REQUIRED
-             PATHS /usr/local
+             PATHS /usr
              NO_DEFAULT_PATH
 )
 
