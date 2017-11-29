@@ -18,7 +18,7 @@ find_package(OpenCV 3 REQUIRED
     opencv_core
     opencv_imgproc
     opencv_imgcodecs
-    PATHS /usr/include
+    PATHS /usr
     NO_DEFAULT_PATH
   CONFIG
 )
